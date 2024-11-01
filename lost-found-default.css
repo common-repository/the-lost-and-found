@@ -1,0 +1,132 @@
+
+/* item list */
+table.lostfound {
+    width: 600px;    
+}
+td.lfupload {
+    vertical-align: top;
+}
+td.lfupload {
+    vertical-align: top;
+    width: 300px;
+}
+
+tr.lfupload {
+
+
+}
+span.itemname {
+    font-weight: bold;
+}
+div.lfitemlist {
+    /* position: relative;
+     top: 0em;  */
+    margin: 30px;
+}
+table.lostfound {
+    width: 600px;
+
+}
+span.itemdescription {
+
+}
+td.lfitem {
+    width: 50%;
+    vertical-align: top;
+}
+/* end item list */
+/* admin claim area */
+th.lfadmin {
+    padding: 0px 5px;
+}
+td.lfitemname {
+    width: 20%;
+}
+td.lfadmin {
+    padding: 0px 2px;
+}
+/* admin claim area */
+h2.lostfound {
+
+}
+
+td.lfname {
+    width: 33%;
+}
+div.lfheaderbar {
+    width: 100%;
+
+}
+div.lfnavwrapper {
+    height: 4em;
+    text-align: center;
+    width: 35em;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.lfnav {
+    float: left;
+    width: 11em;
+    padding: 0px .25em 0px .25em;
+}
+div.lfpages {
+    height: 3em;
+    width: 100%;
+    text-align: center;
+}
+td.lfclaims {
+    width: 33%;
+}
+
+h2.nav-tab-wrapper {
+    font-size: medium;
+}
+.spacer {
+    height: 10px;
+}
+.error {
+    font-weight: bold;
+    color: red;
+}
+.itemsperpage {
+    clear: left;
+    text-align: center;
+}
+div.lfnavarrows {
+    height: 25px;
+    text-align: center;
+    width: 35em;
+    margin: 0px auto 0px auto;
+}
+div.lfnavarrow {
+    background-repeat: no-repeat;
+    background-image:url('../../../wp-admin/images/arrows.png');
+    height: 15px; 
+}
+div.lfleft {
+    background-position: 0px -68px; 
+    padding: 0px 11px 0px 13px; 
+    float:left;
+}
+div.lfdblleft {
+    background-position: 0px -68px; 
+    padding: 0px 0px 0px 11px; 
+    float:left;
+}
+div.lfright {
+    background-position: 0px -104px; 
+    padding: 0px 11px 0px 13px;
+    float:left;
+}
+div.lfdblright {
+    background-position: 0px -104px; 
+    padding: 0px 0px 0px 11px;
+    float: left;
+}	    
+div.lfpageinfo {
+    padding: 0px 20px;
+    float: left;
+    width: 9em;
+}
+
+
